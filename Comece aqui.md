@@ -47,9 +47,9 @@ A tela principal do dashboard é composta por:
 
 O objetivo deste dashboard é aumentar a conscientização sobre as causas e padrões dos acidentes em rodovias federais, proporcionando uma base sólida para a formulação de políticas públicas e iniciativas de segurança viária.
 
-## Exemplos de Visualizações
+## 🗺 Exemplos de Visualizações
 ### Capa
-![Capa](https://i.ibb.co/mBs9FCY/1.png)
+![Capa](https://i.ibb.co/YL3Hr4v/2.png)
 
 ### Dashboard
-![Dashboard](https://i.ibb.co/YL3Hr4v/2.png)
+![Dashboard](https://i.ibb.co/mBs9FCY/1.png)
