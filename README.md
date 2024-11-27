@@ -39,7 +39,7 @@ A tela principal do dashboard é composta por:
 
 ## 📌 *Como Utilizar*
 
-1. *Abrir o Dashboard*: Para ter acesso ao Dashboard basta clicar [aqui](https://app.powerbi.com/view?r=eyJrIjoiMTI4NTdiMTQtOWRjYy00ZGEwLTgxYzctYjhmOTY5Y2M3NzE1IiwidCI6IjUxODkwYzFjLThkN2ItNGJkYS1hYTUwLTQ5MDhmMDJkMDQ5ZCJ9).
+1. *Abrir o Dashboard*: Para ter acesso ao Dashboard basta clicar [aqui](https://app.powerbi.com/view?r=eyJrIjoiYTZmNDU1NTctOGQ3Ny00YTQzLTkyYmUtZTJlZTRhNmQwMGJjIiwidCI6IjUxODkwYzFjLThkN2ItNGJkYS1hYTUwLTQ5MDhmMDJkMDQ5ZCJ9&pageName=afd082c5341b7a9c0f20).
 2. *Interagir com os Filtros*: Personalize sua análise usando os filtros disponíveis no topo do dashboard.
 3. *Explorar Insights*: Navegue pelos gráficos e explore padrões e tendências.
 
