@@ -52,4 +52,4 @@ O objetivo deste dashboard é aumentar a conscientização sobre as causas e pad
 ![Capa](https://i.ibb.co/YL3Hr4v/2.png)
 
 ### Dashboard
-![Dashboard](https://i.ibb.co/mBs9FCY/1.png)
+![Dashboard](https://i.ibb.co/mC4Swb1/Sem-t-tulo.png)
